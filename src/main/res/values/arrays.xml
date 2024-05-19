@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="courses">
+        <item>CTIS </item>
+        <item>Restrictive Elective</item>
+        <item>Art Elective</item>
+    </array>
+
+</resources>

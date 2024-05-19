@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeyyedehTorkanHesariHW2</string>
+    <string name="etId">Course Code</string>
+    <string name="etName">Course Title</string>
+    <string name="etLike">Section Number</string>
+    <string name="etComment">Number of Credits</string>
+</resources>
